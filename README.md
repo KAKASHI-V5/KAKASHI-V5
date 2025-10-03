@@ -22,7 +22,7 @@ Just a normal person every day trying to find a better one of me.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5 &theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5&theme=radical" alt="GitHub Streak" />
 </p> 
 
 
