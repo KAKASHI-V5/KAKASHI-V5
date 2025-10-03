@@ -18,11 +18,11 @@ Just a normal person every day trying to find a better one of me.
 ### 📊 Github Stats (Expand to View) 
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntkhang03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKASHI-V5&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntkhang03&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5 &theme=radical" alt="GitHub Streak" />
 </p> 
 
 
