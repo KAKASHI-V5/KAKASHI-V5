@@ -24,7 +24,7 @@ Just a normal person every day trying to find a better one of me.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5&theme=radical" alt="GitHub Streak" />
 </p> 
-</p>
+✨✨✨✨ </p>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAKASHI-V5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
   </p>
