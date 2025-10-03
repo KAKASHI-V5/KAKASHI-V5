@@ -24,7 +24,8 @@ Just a normal person every day trying to find a better one of me.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5&theme=radical" alt="GitHub Streak" />
 </p> 
-
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 </details>
 
