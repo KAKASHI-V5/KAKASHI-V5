@@ -15,10 +15,10 @@ Just a normal person every day trying to find a better one of me.
 ### 📊 Github Stats (Expand to View) 
 
   <p align="center">
-    <a href="https://github.com/mdraselm325/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdraselm325&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/mdraselm325/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KAKASHI-V5&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdraselm325&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAKASHI-V5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
   <br/>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
