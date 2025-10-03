@@ -24,10 +24,10 @@ Just a normal person every day trying to find a better one of me.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5&theme=radical" alt="GitHub Streak" />
 </p> 
-<br/>
+</p>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAKASHI-V5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  <br/>
+  </p>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
