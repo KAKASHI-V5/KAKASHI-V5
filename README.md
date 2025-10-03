@@ -7,7 +7,10 @@ I'm a student passionate about JavaScript and coding.
 Just a normal person every day trying to find a better one of me.
 
 ## 🛠️ Top Skills
+
 - JavaScript (JS)
+- CSS
+- NIX
 
 
 
