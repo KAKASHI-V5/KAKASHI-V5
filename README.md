@@ -2,6 +2,14 @@
 # ┣┓Love┏♨❤♨┑You┏┥
 ![Visitor Count](https://komarev.com/ghpvc/?username=KAKASHI-V5&color=blueviolet)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+the+repo;Happy+Coding!+🚀;Built+with+❤️+by+Shifat" alt="Thanks" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
+
 ## 👤 About Me
 I'm a student passionate about JavaScript and coding.  
 Just a normal person every day trying to find a better one of me.
