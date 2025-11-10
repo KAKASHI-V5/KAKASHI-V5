@@ -1,6 +1,12 @@
- # 𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 👋
+ # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Credits & Development Team <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+
+<table>
+<tr> 𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 👋
 # ┣┓Love┏♨❤♨┑You┏┥
-![Visitor Count](https://komarev.com/ghpvc/?username=KAKASHI-V5&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=KAKASHI-V5&color=blueviolet) <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Credits & Development Team <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+
+<table>
+<tr>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+the+repo;Happy+Coding!+🚀;Built+with+❤️+by+Shifat" alt="Thanks" />
