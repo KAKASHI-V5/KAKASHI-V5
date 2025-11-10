@@ -1,9 +1,10 @@
- # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Credits & Development Team <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+ # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> 𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 👋
+# ┣┓Love┏♨❤♨┑You┏┥ <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
 
 <table>
 <tr> 𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 👋
 # ┣┓Love┏♨❤♨┑You┏┥
-![Visitor Count](https://komarev.com/ghpvc/?username=KAKASHI-V5&color=blueviolet) <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Credits & Development Team <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+![Visitor Count](https://komarev.com/ghpvc/?username=KAKASHI-V5&color=blueviolet) <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> SIFAT × SIZUKA <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
 
 <table>
 <tr>
